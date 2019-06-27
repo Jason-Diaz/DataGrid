@@ -1,0 +1,15 @@
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\bin\Debug\Lab-DataGrid.exe.config
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\bin\Debug\Lab-DataGrid.exe
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\bin\Debug\Lab-DataGrid.pdb
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\App.g.cs
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid_MarkupCompile.cache
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid_MarkupCompile.lref
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\MainWindow.baml
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.g.resources
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab_DataGrid.Properties.Resources.resources
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.csproj.GenerateResource.cache
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.exe
+C:\Users\soblab\source\repos\Lab-DataGrid\Lab-DataGrid\obj\Debug\Lab-DataGrid.pdb
